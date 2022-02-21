@@ -1,8 +1,5 @@
 # FlappyBird
 
-# Использование проекта
-Для того, чтобы использовать проект вам понадобится:
-
-  1. Установить Unity.
-  2. Склонировать данный репозиторий $git clone https://github.com/proximummax/FlappyBird
-  3. Открыть с помощью Unity проект, указав к нему путь
+# Сборка проекта
+Для сборки проекта под Windows с помощью CLI необходимо ввести следующую команду: 
+*"path\to\Unity.exe" -buildWindowsPlayer "path\to\Game\build.exe"*
